@@ -136,3 +136,7 @@ font-size: 3px;
 .align-items-center-1{
     text-align: center;
 }
+.big-hight{
+    height: 500px;
+    margin-top: 30px;
+}
